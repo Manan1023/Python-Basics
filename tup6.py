@@ -1,0 +1,7 @@
+t=(1,2,9)
+l1=list(t)
+l1.append(3)
+t2=tuple(l1)
+print(t)
+print(l1)
+print(t2)
