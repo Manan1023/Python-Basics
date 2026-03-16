@@ -1,0 +1,6 @@
+str1=input("Enter a string")
+s1=set(str1.split())
+print(s1)
+str2=input("Enter a string")
+s2=set(str2.split())
+print(s1&s2)
